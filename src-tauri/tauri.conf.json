@@ -62,6 +62,9 @@
       "webviewInstallMode": {
         "silent": true,
         "type": "downloadBootstrapper"
+      },
+      "sign": {
+        "signature": false
       }
     }
   },
